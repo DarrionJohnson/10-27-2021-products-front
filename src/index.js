@@ -18,6 +18,9 @@ api.indx().then((products) => {
 `;
 });
 
+// TODO: Add Tailwind styling to get the
+// TODO: Add a filtering form.
+
 // Create a txt on the html.
 // root.innerHTML =
 //   <main class="container mx-auto flex flex-col items-center">
